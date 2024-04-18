@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "ejs": "^3.1.10",
+    "exprss": "^0.0.1-security",
+    "mongoose": "^8.3.1"
+  }
+}

@@ -1,0 +1,19 @@
+react application 
+
+ npx create-react-app ( manage)
+ front end needed files 
+
+npm i react-router-dom 
+npm config set legacy-peer-deps true
+npm install materialui from broswer
+npm i axios
+npm i cors
+
+Backend files
+
+npm install express
+npm install mongoose
+npm install bcrypt
+npm install ejs
+
+(index.js,config.js)
